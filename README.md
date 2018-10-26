@@ -1,2 +1,2 @@
 # hello-world
-First Git
+Moon tacos are the best
